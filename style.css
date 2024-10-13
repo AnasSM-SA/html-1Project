@@ -1,0 +1,15 @@
+body{
+    background-color: #222831;
+}
+
+*{
+    color: #EEEEEE;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style :normal;
+}
+
+#id_links{
+    color: #00ADB5;
+}
+
